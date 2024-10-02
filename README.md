@@ -24,8 +24,8 @@ To Run Any Springboot project project, you have to do some important steps first
 before running any springboot project, go to the project that you have imported or created and in the project you can see **src/main/resources** open it and in that select application.properties file. Firstly only one statement will be there, but you have to add the bellow code in that file,
 
                               spring.datasource.url= jdbc:mysql://localhost:3306/eventmanagementsystem?createDatabaseIfNotExist=true
-                              spring.datasource.username=your_username
-                              spring.datasource.password=your_password
+                              spring.datasource.username=your_mysql_username
+                              spring.datasource.password=your_mysql_password
                               
                               spring.jpa.hibernate.ddl-auto=update
                               spring.jpa.properties.hibernate.format_sql=true
