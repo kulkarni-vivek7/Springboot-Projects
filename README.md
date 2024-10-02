@@ -17,6 +17,9 @@ To Run Any Springboot project project, you have to do some important steps first
      3. ![Screenshot 2024-10-02 210815](https://github.com/user-attachments/assets/c3572fd8-e504-437e-b8bb-f7c46bd4538a)
         next this window will open and here you have to add all the necessary dependencies like shown in the above image (note :- if you want to add Lombok                 dependency, you have to first configure it.) and click on finish to create your project.
 
+
+    (The Above 3 Steps in 1 way to create springboot project. If you want you can also use https://start.spring.io/ website to create your springboot projects. Here you have follow the 2nd and 3rd steps from above and after doing all the things click Generate Button and download your project in form of Zip file and once the downloading is completed, unzip the project file to a Dedicated Folder for springboot and open the project into the Spring Tool Suite 4)
+
   
   4. if you already have a springboot project and if you want to import it, Go To File section and there Select "Open Projects From File System..." option and a window will open. In that window on the top-right side a Directory button will be there, click it and select your springboot project folder and then click on Finish button which will be there at bottom-right and your springboot project will be imported.
 
